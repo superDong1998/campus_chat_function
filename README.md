@@ -5,3 +5,4 @@ Chat function of campus application
 
 # in 'interface'
     source .jpg files have been changed! 
+    更加精致
